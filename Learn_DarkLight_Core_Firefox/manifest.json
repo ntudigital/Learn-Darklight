@@ -29,8 +29,9 @@
         "css/theme.css"
       ],
       "matches": [
-        "*://learn.uwaterloo.ca/*",
-        "*://mylearningspace.wlu.ca/*"
+        "*://now.ntu.ac.uk/*",
+        "*://ntudev.brightspace.com/*"
+        "*://ntutest.brightspace.com/*"
       ],
       "run_at": "document_start"
     },
@@ -40,8 +41,9 @@
         "js/init_idle.js"
       ],
       "matches": [
-        "*://learn.uwaterloo.ca/*",
-        "*://mylearningspace.wlu.ca/*"
+        "*://now.ntu.ac.uk/*",
+        "*://ntudev.brightspace.com/*"
+        "*://ntutest.brightspace.com/*"
       ],
       "run_at": "document_idle"
     }
@@ -56,8 +58,9 @@
     "activeTab",
     "contextMenus",
     "storage",
-    "*://learn.uwaterloo.ca/*",
-    "*://mylearningspace.wlu.ca/*"
+        "*://now.ntu.ac.uk/*",
+        "*://ntudev.brightspace.com/*"
+        "*://ntutest.brightspace.com/*"
   ],
   "short_name": "Learn Darklight Core",
   "web_accessible_resources": [
