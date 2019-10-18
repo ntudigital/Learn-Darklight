@@ -31,8 +31,9 @@
         "js/init.js"
       ],
       "matches": [
-        "*://learn.uwaterloo.ca/*",
-        "*://mylearningspace.wlu.ca/*"
+        "*://now.ntu.ac.uk/*",
+        "*://ntudev.brightspace.com/*"
+        "*://ntutest.brightspace.com/*"
       ],
       "run_at": "document_start"
     },
@@ -42,8 +43,9 @@
         "js/init_idle.js"
       ],
       "matches": [
-        "*://learn.uwaterloo.ca/*",
-        "*://mylearningspace.wlu.ca/*"
+        "*://now.ntu.ac.uk/*",
+        "*://ntudev.brightspace.com/*"
+        "*://ntutest.brightspace.com/*"
       ],
       "run_at": "document_idle"
     }
@@ -63,8 +65,9 @@
     "activeTab",
     "contextMenus",
     "storage",
-    "*://learn.uwaterloo.ca/*",
-    "*://mylearningspace.wlu.ca/*"
+        "*://now.ntu.ac.uk/*",
+        "*://ntudev.brightspace.com/*"
+        "*://ntutest.brightspace.com/*"
   ],
   "short_name": "Learn Darklight",
   "version": "3.0.16",
