@@ -1,3 +1,5 @@
+### The files have been edited to make it work on NTU's D2L service
+
 # Learn Darklight
 Learn Darklight is a browser extension that offers multiple themes for Waterloo Learn. [Visit extension website](https://www.zijianshao.com/dlight/ "Learn Darklight Official Website")
 
